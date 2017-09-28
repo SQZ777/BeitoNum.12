@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeitoNumber12", "BeitoNumber12\BeitoNumber12.csproj", "{54B9192A-5359-4D78-9329-1A220FD994B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBeitoNumber12.Tests", "TestBeitoNumber12.Tests\TestBeitoNumber12.Tests.csproj", "{6217B858-D1EB-4A8D-BFCC-F711E144055F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B9192A-5359-4D78-9329-1A220FD994B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B9192A-5359-4D78-9329-1A220FD994B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B9192A-5359-4D78-9329-1A220FD994B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B9192A-5359-4D78-9329-1A220FD994B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6217B858-D1EB-4A8D-BFCC-F711E144055F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6217B858-D1EB-4A8D-BFCC-F711E144055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6217B858-D1EB-4A8D-BFCC-F711E144055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6217B858-D1EB-4A8D-BFCC-F711E144055F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E42C684-F56D-40E0-A0E2-B6CD1B0A3FE8}
+	EndGlobalSection
+EndGlobal
